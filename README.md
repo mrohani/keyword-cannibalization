@@ -1,6 +1,6 @@
 # keyword-cannibalization
 
-#Import Libraries
+# Import Libraries
 
  /pandas 
  /datetime
@@ -15,11 +15,11 @@
  /BeautifulSoup
  
  
- #Add Your Google Search Console API Keys
+ # Add Your Google Search Console API Keys
 
 ==> https://developers.google.com/webmaster-tools
 
 
-# Make Your Search Console API Call
+
 
 
